@@ -66,7 +66,7 @@ Let It Die Launcher Manager   https://github.com/Grimfuldev/let_it_die_launcher_
 ## License and disclaimer
 
 ```
-This is an unofficial fan tool. It is not affiliated with, authorized,
+This is an unofficial fan tool with fanmade assets. It is not affiliated with, authorized,
 or endorsed by Grasshopper Manufacture or GungHo Online Entertainment.
 LET IT DIE, its characters, names, and setting remain their property.
 ```
