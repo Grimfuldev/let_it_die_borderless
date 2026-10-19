@@ -67,6 +67,6 @@ LET IT DIE, its characters, names, and setting remain their property.
 
 ## Other helpful programs
 
-- [https://github.com/Grimfuldev/let_it_die_launcher_manager](https://github.com/Grimfuldev/let_it_die_launcher_manager)
-- [https://github.com/Grimfuldev/Let_it_Die_Local_Saver](https://github.com/Grimfuldev/Let_it_Die_Local_Saver)
-- [https://github.com/Grimfuldev/let_it_die_rotations_and_seasons](https://github.com/Grimfuldev/let_it_die_rotations_and_seasons)
+- [https://github.com/Grimfuldev/let_it_die_launcher_manager](https://github.com/Grimfuldev/let_it_die_launcher_manager/releases/latest)
+- [https://github.com/Grimfuldev/Let_it_Die_Local_Saver](https://github.com/Grimfuldev/Let_it_Die_Local_Saver/releases/latest)
+- [https://github.com/Grimfuldev/let_it_die_rotations_and_seasons](https://github.com/Grimfuldev/let_it_die_rotations_and_seasons/releases/latest)
