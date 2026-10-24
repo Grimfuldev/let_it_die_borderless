@@ -1,10 +1,10 @@
 # Let It Die Borderless v0.3
 <p align="center">
-<img width="256" height="256" alt="Lidico" src="https://github.com/user-attachments/assets/1c51f61f-d27c-4924-8156-5446a7008bea" />
+<img width="256" height="227" alt="Asset 1" src="https://github.com/user-attachments/assets/b7530990-1b40-49e0-bb71-f4b669167405" />
 </p>
 <img width="1683" height="431" alt="showcase example" src="https://github.com/user-attachments/assets/2ca22f73-6c45-4e7b-a784-e2d03061a179" />
-<img width="436" height="328" alt="image" src="https://github.com/user-attachments/assets/80804e19-32ac-4e8a-bb06-de55f59409d0" />
-<img width="591" height="653" alt="image" src="https://github.com/user-attachments/assets/2cf83250-b66f-4827-8aad-434c41923d73" />
+<img width="438" height="353" alt="image" src="https://github.com/user-attachments/assets/51e82b80-cdb2-4ea7-876a-40c6ffafe6b8" />
+<img width="593" height="660" alt="image" src="https://github.com/user-attachments/assets/ef57a63d-3949-4201-9486-eca18e2d3a5f" />
 
 **v0.3**. If you got v0.2, update to v0.3 to improve reticle mark detection.
 
