@@ -169,14 +169,8 @@ game malfunction, or account action, including bans, that may result from using 
 
 ## Credits
 
-Huge thanks to SES7 for the SHA Check remover: https://gamebanana.com/tools/24197
-Without it, the reticle swap tool wouldn't be possible.
-
-## Other helpful programs
-
-- [https://github.com/Grimfuldev/let_it_die_launcher_manager](https://github.com/Grimfuldev/let_it_die_launcher_manager/releases/latest)
-- [https://github.com/Grimfuldev/Let_it_Die_Local_Saver](https://github.com/Grimfuldev/Let_it_Die_Local_Saver/releases/latest)
-- [https://github.com/Grimfuldev/let_it_die_rotations_and_seasons](https://github.com/Grimfuldev/let_it_die_rotations_and_seasons/releases/latest)
+Huge thanks to SES7 for the SHA Check remover: https://gamebanana.com/tools/24197 
+Without it, the reticle swap tool wouldn't be possible. (This program uses its own reversible built-in version of that).
 
 ## Other helpful programs
 
