@@ -1,4 +1,4 @@
-# Let It Die Borderless v0.2
+# Let It Die Borderless v0.3
 <p align="center">
 <img width="256" height="256" alt="Lidico" src="https://github.com/user-attachments/assets/1c51f61f-d27c-4924-8156-5446a7008bea" />
 </p>
@@ -6,8 +6,10 @@
 <img width="436" height="328" alt="image" src="https://github.com/user-attachments/assets/80804e19-32ac-4e8a-bb06-de55f59409d0" />
 <img width="591" height="653" alt="image" src="https://github.com/user-attachments/assets/2cf83250-b66f-4827-8aad-434c41923d73" />
 
-**v0.2**. Forces Let It Die into borderless windowed mode, and includes the Reticle Maker.
+**v0.3**. Forces Let It Die into borderless windowed mode, and includes the Reticle Maker.
 The game must already be in Windowed mode, not exclusive fullscreen.
+
+If you got v0.2, update to v0.3 to improve reticle detection.
 
 ## How Borderless works
 
