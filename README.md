@@ -1,4 +1,4 @@
-# Let It Die Borderless
+# Let It Die Borderless v0.2
 <p align="center">
 <img width="256" height="256" alt="Lidico" src="https://github.com/user-attachments/assets/1c51f61f-d27c-4924-8156-5446a7008bea" />
 </p>
