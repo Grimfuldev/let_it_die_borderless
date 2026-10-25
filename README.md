@@ -1,9 +1,8 @@
 # Let It Die Borderless v0.1
 <p align="center">
-<img width="256" height="227" alt="Asset 1" src="https://github.com/user-attachments/assets/b7530990-1b40-49e0-bb71-f4b669167405" />
+<img width="256" height="256" alt="Lidico" src="https://github.com/user-attachments/assets/c5483747-b0b1-496b-a6fa-10bee8668cb5" />
 </p>
-<img width="1683" height="431" alt="showcase example" src="https://github.com/user-attachments/assets/2ca22f73-6c45-4e7b-a784-e2d03061a179" />
-<img width="438" height="353" alt="image" src="https://github.com/user-attachments/assets/51e82b80-cdb2-4ea7-876a-40c6ffafe6b8" />
+<img width="428" height="277" alt="example ui" src="https://github.com/user-attachments/assets/eada469f-e9b7-497b-83e3-0650c2053999" />
 
 Forces Let It Die into borderless windowed mode.
 The game must already be in Windowed mode, not exclusive fullscreen.
