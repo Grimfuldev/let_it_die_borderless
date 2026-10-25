@@ -2,6 +2,7 @@
 <p align="center">
 <img width="256" height="256" alt="Lidico" src="https://github.com/user-attachments/assets/c5483747-b0b1-496b-a6fa-10bee8668cb5" />
 </p>
+<img width="1683" height="431" alt="showcase example" src="https://github.com/user-attachments/assets/a1a636fe-f25b-4729-ab62-b0ddf3f6c993" />
 <img width="428" height="277" alt="example ui" src="https://github.com/user-attachments/assets/eada469f-e9b7-497b-83e3-0650c2053999" />
 
 Forces Let It Die into borderless windowed mode.
