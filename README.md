@@ -3,7 +3,7 @@
 <img width="256" height="256" alt="Lidico" src="https://github.com/user-attachments/assets/6aeb57c7-4269-4940-a4e2-9ffa84fb56d0" />
 </p>
 <img width="1683" height="431" alt="showcase example" src="https://github.com/user-attachments/assets/602788f3-2e40-43bf-bd12-0b952601df13" />
-<img width="1052" height="638" alt="image" src="https://github.com/user-attachments/assets/4f07ec34-cce3-4363-a102-5a3bf10757a7" />
+<img width="1080" height="727" alt="image" src="https://github.com/user-attachments/assets/8c92d13c-2772-433d-b991-46e39e9068c1" />
 
 **v0.4**. Forces Let It Die into borderless windowed mode, and includes an optional Reticle Maker & Patcher.
 The game must already be in Windowed mode, not exclusive fullscreen.
