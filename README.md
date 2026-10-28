@@ -123,6 +123,12 @@ Making a reticle
   Preview           click it for the preview popup: actual size on black or
                     white, or over a picture of the game, with Save Reticle,
                     Import Reticle and Take photo
+
+Modified files: 
+Unlock SHA: BrgGame-Steam.exe
+Patch reticle: UI_HUD_SF.upk and BrgGameBase.upk
+Original Deviate: BrgGameBase.upk
+Restore SHA: Restore all the above along SteamPCRelease-BrgEngine.ini.                    
 ```
 
 ### Deviation depends on resolution
