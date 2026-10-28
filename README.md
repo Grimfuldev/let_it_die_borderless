@@ -8,8 +8,7 @@
 **v0.4**. Forces Let It Die into borderless windowed mode, and includes an optional Reticle Maker & Patcher.
 The game must already be in Windowed mode, not exclusive fullscreen.
 
-The tutorial:
-https://youtu.be/fg0Cmrz0gOs
+The tutorial: https://youtu.be/fg0Cmrz0gOs
 
 ## How it works
 
