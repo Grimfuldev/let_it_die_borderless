@@ -155,8 +155,8 @@ The reticle went back to the original deviation
     A game update or Steam's "Verify integrity of game files" restored the
     files. Patch Reticle / Original Deviate again (auto_reapply can do it
     for you when this program starts).
-The game looks broken, the game devs probably modified the target files in an update
-rendering this program outdated.
+The game looks broken, it could be due modified game files with another mod 
+or the game devs modified the target files in an update rendering this program outdated.
 ```
 
 ### Take photo
